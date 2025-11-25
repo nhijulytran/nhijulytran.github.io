@@ -1,10 +1,3 @@
-</head>
-<body>
-  <header>
-    <h1>TRAN THI HONG NHI</h1>
-    <h3>Data Analyst</h3>
-    <p>Ho Chi Minh City, Vietnam</p>
-  </header>
 
   <section class="contact">
     <h2>Contact</h2>
