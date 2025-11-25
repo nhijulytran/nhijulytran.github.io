@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Tran Thi Hong Nhi — Data Analyst Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f7f7f7; color: #333; }
-    header { background: #1f2937; color: white; padding: 40px 20px; text-align: center; }
-    section { padding: 40px 20px; max-width: 900px; margin: auto; }
-    h2 { border-bottom: 2px solid #ddd; padding-bottom: 8px; margin-bottom: 20px; }
-    .contact a { color: #1f2937; text-decoration: none; }
-    ul { line-height: 1.6; }
-    .project { background: white; padding: 20px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
-    footer { text-align: center; padding: 20px; background: #eee; margin-top: 40px; }
-  </style>
 </head>
 <body>
   <header>
@@ -114,9 +98,5 @@
       <li>Python Data Fundamentals — DataCamp</li>
     </ul>
   </section>
-
-  <footer>
-    <p>© 2025 Tran Thi Hong Nhi — Data Analyst Portfolio</p>
-  </footer>
 </body>
 </html>
