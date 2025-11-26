@@ -1,10 +1,9 @@
 title: "Tran Thi Hong Nhi – Data Analyst"
-logo: assets/img/logocv.jpg
-description: >
-  Ambitious Data Analyst transitioning from nearly 3 years of experience as a Credit Officer.
-  Strong background in finance, risk assessment, SQL, Power BI, and Python.
-  Passionate about transforming data into insights and driving business decisions.
-show_downloads: false
-linkedin: "https://www.linkedin.com/in/nhijulytran-analyst/"
-github: "https://github.com/nhijulytran"
+description: "Data Analyst | SQL | Python | BI Tools | Financial Analytics"
 theme: jekyll-theme-minimal
+
+logo: /assets/profile.jpg
+show_downloads: true
+
+google_analytics: false
+markdown: kramdown
