@@ -1,9 +1,10 @@
-title: "Tran Thi Hong Nhi – Data Analyst"
+title: "Tran Thi Hong Nhi"
 description: "Data Analyst | SQL | Python | BI Tools | Financial Analytics"
+location: Ho Chi Minh City, Vietnam
 theme: jekyll-theme-minimal
 
 logo: /assets/profile.jpg
 show_downloads: true
 
-google_analytics: false
+google_analytics: true
 markdown: kramdown
