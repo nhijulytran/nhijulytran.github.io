@@ -1,7 +1,8 @@
 # **Data Analyst**
 
 ## **Profile Summary**
-Ambitious Data Analyst transitioning from nearly three years as a Credit Officer in banking. Experienced in analyzing financial data, customer profiles, and risk metrics to support informed decisions. Skilled in **Excel, SQL, Power BI, and Python**, with a strong analytical mindset and business understanding. Committed to continuous learning, effective communication, and structured problem-solving, aiming to deliver insights in **financial analytics**, **risk modeling**, and **performance analysis**.
+Ambitious Data Analyst transitioning from nearly three years as a Credit Officer in banking. Experienced in analyzing financial data, customer profiles, and risk metrics to support informed decisions.
+Committed to continuous learning, effective communication, and structured problem-solving, aiming to deliver insights in **financial analytics**, **risk modeling**, and **performance analysis**.
 
 ---
 
