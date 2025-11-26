@@ -26,7 +26,7 @@ Ambitious Data Analyst transitioning from nearly three years as a Credit Officer
 - **Strengths:** Data Cleaning, EDA, Segmentation
 - Delivered tailored recommendations for each segment to boost engagement and conversion.
 
-*View Project:* `![SQL](https://img.shields.io/badge/SQL-000000?logo=postgresql&logoColor=white)[Add GitHub link here]`  
+*View Project:* [![SQL](https://img.shields.io/badge/SQL-000000?logo=postgresql&logoColor=white)](https://github.com/nhijulytran/Bank-Marketing-Campaign-Analysis_SQL)
 
 ---
 
@@ -37,7 +37,7 @@ Ambitious Data Analyst transitioning from nearly three years as a Credit Officer
 - **Measures:** Total Sales, Total Cost, Total Profit, Profit Rank, Previous Year Sales, Cost-to-Sales Ratio, % Growth
 - Provided actionable insights for expansion strategy, inventory planning, and executive reporting.
 
-*View Project:* `![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=000)[Add GitHub link]`  
+*View Project:* [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=000)](https://github.com/nhijulytran/Business-Performance-Analysis_Power-BI) 
 
 ---
 
@@ -47,7 +47,7 @@ Ambitious Data Analyst transitioning from nearly three years as a Credit Officer
 - Developed visualizations: bar, boxplot, scatter, heatmap, treemap, pie chart, line chart, histogram.
 - Found UK contributes 84.6% of total revenue; business heavily depends on top-tier segments.
 
-*View Project:* `![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)[Add GitHub link]`
+*View Project:* [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/nhijulytran/Customer-Segmentation-with-RFM-Analysis)
 
 ---
 
@@ -79,10 +79,10 @@ Ambitious Data Analyst transitioning from nearly three years as a Credit Officer
 ---
 
 ## **Contact**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="18"/> **Email:** tranthihongnhi1709@gmail.com
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="18"/> **Email:** [tranthihongnhi1709@gmail.com](tranthihongnhi1709@gmail.com)
 - 📱 **Phone:** (+84) 707 039 963
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="18"/> **LinkedIn:** https://www.linkedin.com/in/nhijulytran-analyst 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="18"/> **GitHub:** https://github.com/nhijulytran 
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="18"/> **LinkedIn:** [https://www.linkedin.com/in/nhijulytran-analyst](https://www.linkedin.com/in/nhijulytran-analyst)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="18"/> **GitHub:** [https://github.com/nhijulytran](https://github.com/nhijulytran)
 
 ---
 
