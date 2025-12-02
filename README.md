@@ -68,8 +68,8 @@ Committed to continuous learning, effective communication, and structured proble
 
 ## **Education & Certificates**
 - **Bachelor’s Degree in Finance** — University of Economics Ho Chi Minh City (2017–2021)
-- **Data Analysis Certificate** — Center for Information Technology, University of Science (Sep 2024)
-- **Python Data Fundamentals** — DataCamp (Nov 2024)
+- **Data Analysis Certificate** — Center for Information Technology, University of Science (Sep 2025)
+- **Python Data Fundamentals** — DataCamp (Nov 2025)
 
 ---
 
