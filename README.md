@@ -7,8 +7,8 @@ Committed to continuous learning, effective communication, and structured proble
 ---
 
 ## **Technical Skills**
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (Aggregations, Joins, CASE-WHEN, CTEs, Subqueries, Window Functions)
-- **BI & Data Tools:** MS Excel, Power BI (DAX, Data Modeling, Power Query)
+- **Programming:** Python (Pandas, Numpy, Matplotlib, Seaborn), SQL (Aggregations, Joins, CTEs, Subqueries, Window Functions)
+- **BI & Data Tools:** Excel, Power BI (DAX, Data Modeling, Power Query)
 - **Databases:** BigQuery, MS SQL Server
 - **Analytics:** EDA, Data Cleaning, Segmentation, RFM Modeling, KPI Tracking
 
@@ -68,8 +68,6 @@ Committed to continuous learning, effective communication, and structured proble
 
 ## **Education & Certificates**
 - **Bachelor’s Degree in Finance** — University of Economics Ho Chi Minh City (2017–2021)
-  
-  Classification: Good
 - **Data Analysis Certificate** — Center for Information Technology, University of Science (Sep 2024)
 - **Python Data Fundamentals** — DataCamp (Nov 2024)
 
